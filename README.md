@@ -122,9 +122,11 @@ This is a general expected income from all stores. The individual results will b
 
 After all this steps, the meeting with the CEO and other the other teams will occur. In this meeting will be decided whether to improve the project / model, or finish this project to start a new one. For now, everyone will have access to the model output through the Telegram and all allocated resources will be, for sure, way more assertive than before.
 
-<img src="telegram3.JPG" alt="pic1" style="zoom:70% ;" />
-<img src="telegram2.JPG" alt="pic2" style="zoom:65% ;" />
-<img src="telegram1.JPG" alt="pic3" style="zoom:70% ;" />
+## 6.1 Examples of Telegram Results
+
+<img src="telegram3.JPG" alt="pic1" style="zoom:55% ;" />
+<img src="telegram2.JPG" alt="pic2" style="zoom:57% ;" />
+<img src="telegram1.JPG" alt="pic3" style="zoom:54% ;" />
 
 # 7.0 - Next steps
 
