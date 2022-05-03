@@ -46,7 +46,7 @@ We need to stablish some premises before we move on into the analysis:
 
 # 3.0 - Solution Strategy
 
-The development of the solution followed the CRISP-DM/DS methodology, with some minor changes (since we are not building a ML model in this project):
+The development of the solution followed the CRISP-DM/DS methodology:
 
 1. **Business problem:** Predict the future sales from every Rossmann store, in order to properly invest the company resources;
 
